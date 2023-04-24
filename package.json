@@ -1,4 +1,15 @@
 {
+  "name": "portfolio-final-meher",
+  "version": "1.0.0",
+  "description": "This is a portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Meher Tasnim",
+  "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
